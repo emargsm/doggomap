@@ -34,6 +34,7 @@ shinyUI(
                            Press \"Map the pups!\" to map a new selection of tweets.<br/>
                            You can then zoom in or out on the map, including clicking on a marker cluster. When you get to the level of individual markers, you can click on a marker to see the tweet for that location.<br/>
                            If desired, you can also click on the link in the popup to show the original tweet and image.</p>
+                         <p/><hr/>
                          <h4>How it works</h4>
                          <p>This page uses a pre-santized CSV file containing 91 tweets from @dogwatisaw.
                          <br/>The CSV was produced using the following steps:
